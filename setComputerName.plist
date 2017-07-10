@@ -6,7 +6,7 @@
     <string>com.techdefenders.computername</string>
     <key>ProgramArguments</key>
     <array>
-      <string>/Users/test/setComputerName.sh</string>
+      <string>/opt/setComputerName.sh</string>
     </array>
   </dict>
 </plist>
